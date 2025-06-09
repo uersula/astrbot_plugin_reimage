@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 import astrbot.api.message_components as Comp
 from urllib.parse import urlparse
 
-@register("reimage", "author", "图像识别插件", "0.0.1", "repo url")
+@register("astrbot_plugin_reimage", "Victical", "图像识别插件", "0.0.1", "https://github.com/victical/astrbot_plugin_reimage")
 class ImageRecognitionPlugin(Star):
     def __init__(self, context: Context, config: dict):
         super().__init__(context)
