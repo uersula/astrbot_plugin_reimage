@@ -1,0 +1,6 @@
+name: astrbot_plugin_reimage # 这是你的插件的唯一识别名。
+desc: 将图像转述给不支持图像识别的大模型 # 插件简短描述
+help: 大模型自己判断是否调用。 # 插件的帮助信息
+version: v0.0.1
+author: Victical # 作者
+repo: https://github.com/victical/astrbot_plugin_reimage # 插件的仓库地址

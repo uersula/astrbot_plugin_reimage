@@ -1,0 +1,21 @@
+{
+    "img_provider": {
+        "description": "图像识别模型配置",
+        "type": "object",
+        "hint": "配置用于图像识别的AI模型",
+        "items": {
+            "provider_id": {
+                "description": "图像识别模型ID",
+                "type": "string",
+                "hint": "在AstrBot中注册的图像识别模型ID",
+                "default": "img_provider"
+            },
+            "system_prompt": {
+                "description": "系统提示词",
+                "type": "text",
+                "hint": "用于指导AI如何描述图片的提示词",
+                "default": "描述图片中的内容，控制在50字以内。"
+            }
+        }
+    }
+} 
