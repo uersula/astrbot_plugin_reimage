@@ -20,22 +20,10 @@ git clone https://github.com/victical/astrbot_plugin_reimage
 - `provider_id`: 图像识别模型ID（默认为 "img_provider"）
 - `system_prompt`: 系统提示词（默认为 "描述图片中的内容，控制在50字以内。"）
 
-## 使用说明
+## 🛠️ 使用说明
 
 插件会自动识别消息中的图片，无需使用特定命令。会自动进行分析并返回描述。
 
-### 功能特点
-- 自动识别消息中的图片
-- 智能分析图片内容
-- 生成简洁的图片描述
-
-
-
-## 👥 贡献指南
-- 🌟 Star 这个项目！（点右上角的星星，感谢支持！）
-- 🐛 提交 Issue 报告问题
-- 💡 提出新功能建议
-- 🔧 提交 Pull Request 改进代码
 
 ## 📝 许可证
 MIT License
