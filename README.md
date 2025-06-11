@@ -4,7 +4,7 @@
 智能图像识别、内容分析
 
 ## 📦 安装
-直接在astrbot的插件市场搜索astrbot_plugin_img，点击安装，等待完成即可
+直接在astrbot的插件市场搜索astrbot_plugin_reimage，点击安装，等待完成即可
 
 也可以克隆源码到插件文件夹：
 
